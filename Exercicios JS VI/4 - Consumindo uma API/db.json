@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "name": "Conta de luz",
+      "amount": -150.02,
+      "id": "5"
+    },
+    {
+      "id": "50d9",
+      "name": "Salário",
+      "amount": 1000
+    }
+  ]
+}
